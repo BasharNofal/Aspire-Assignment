@@ -1,0 +1,11 @@
+main, .lettuce, .patty {
+  transition: all 0.75s ease;
+}
+
+main:hover {
+  transform: scale(1.1);
+}
+
+main:hover .lettuce, main:hover .patty {
+  margin-block: 10px;
+}
