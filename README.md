@@ -6,7 +6,7 @@ This repository contains a small project that demonstrates how to draw a burger 
 
 To ensure that the burger icon remains responsive across various screen sizes, the following techniques were employed:
 
-1. **Percentage Width and Height**: The key to achieving responsiveness lies in using percentage-based width and height values for the different components of the burger. By using percentages, the size of the burger adjusts proportionally as the viewport dimensions change.
+1. **Percentage Dimensions**: The key to achieving responsiveness lies in using percentage-based width and height values for the different components of the burger. By using percentages, the size of the burger adjusts proportionally as the viewport dimensions change.
 
 2. **Flexbox Layout**: Flexbox was employed to arrange the burger components (bun, patty, lettuce, etc.) in a structured manner.
 
