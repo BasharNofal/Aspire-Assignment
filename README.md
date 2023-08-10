@@ -20,6 +20,6 @@ The project consists of the following files:
 
 ## Usage
 
-To view the responsive burger icon, simply open the `index.html` file in a web browser. You can also explore the CSS files to understand how the responsiveness is achieved using percentage-based sizing and flexbox layout.
+Visit this [URL](https://basharnofal.github.io/Aspire-Assignment/) to view the responsive burger icon.
 
 **Note**: media queries can be used, but for simplicity I preferred to use percentage based dimensions.
